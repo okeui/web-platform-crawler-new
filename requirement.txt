@@ -1,0 +1,10 @@
+webdriver-manager
+selenium
+pymsgbox
+customtkinter
+fastapi
+uvicorn[standard]
+pywebview
+pydantic
+websockets
+pyinstaller
