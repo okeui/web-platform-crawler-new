@@ -740,6 +740,8 @@ class FAQCheckerGUI(ctk.CTk):
             pin = dialog.get_input()
             if pin:
                 self.crawler.set_pin_code(pin)
+            else:
+                self.crawler.set_pin_code("")
         self.after(100, ask_pin)
 
     # ------------------------------------------------------------------ #

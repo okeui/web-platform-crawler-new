@@ -25,9 +25,12 @@ def build():
         "--onefile",
         "--name=FAQchecker_GUI",
         "--collect-all=customtkinter",
-        "--hidden-import=selenium",
-        "--hidden-import=webdriver_manager",
+        "--collect-all=selenium",
+        "--collect-all=webdriver_manager",
+        "--collect-submodules=backend",
         "--hidden-import=pymsgbox",
+        "--hidden-import=certifi",
+        "--hidden-import=PIL",
         "--clean",
         "main_gui.py"
     ]

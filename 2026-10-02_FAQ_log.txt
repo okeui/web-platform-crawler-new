@@ -1,0 +1,372 @@
+18:33:46 ================================================
+18:33:46 開始執行 FAQ 自動檢閱爬蟲任務
+18:33:46 總計需要檢閱 3 個目錄，共 8 個問答項目
+18:33:46 初始化 Chrome WebDriver...
+18:33:53 等待使用者輸入自然人憑證 PIN 碼...
+18:36:40 ================================================
+18:36:40 開始執行 FAQ 自動檢閱爬蟲任務
+18:36:41 總計需要檢閱 3 個目錄，共 8 個問答項目
+18:36:41 初始化 Chrome WebDriver...
+18:36:47 等待使用者輸入自然人憑證 PIN 碼...
+18:37:01 登入認證系統
+18:37:06 切換至新分頁（網站整合平台）
+18:37:13 展開網頁目錄 [業務專區 > 地政問答 > 地籍謄本及圖資申請]
+18:37:13 檢視「業務專區>地政問答>地籍謄本及圖資申請 > 地政電子謄本和地政事務所核發的謄本有什麼不同？」節點
+18:37:17 搜尋系統節點關鍵字: 地政電子謄本和地政事務所核發的謄本有什麼不同？
+18:37:23 更新檢閱日期
+18:37:23 檢視「業務專區>地政問答>地籍謄本及圖資申請 > 如何透過網路申請地籍謄本和查詢閱覽地政資料？其收費方式及收費標準為何？」節點
+18:37:24 搜尋系統節點關鍵字: 如何透過網路申請地籍謄本和查詢閱覽地政資料？其收費方式及收費標準為何？
+18:37:34 更新檢閱日期
+18:37:34 檢視「業務專區>地政問答>地籍謄本及圖資申請 > 如何申請取得地政電子資料？其檔案格式為何？可不可以申請其他縣市的地政電子資料？」節點
+18:37:34 搜尋系統節點關鍵字: 如何申請取得地政電子資料？其檔案格式為何？可不可以申請其他縣市的地政電子資料？
+18:37:42 無法更新檢閱日期: 'NoneType' object has no attribute 'is_displayed'
+18:37:42 檢視「業務專區>地政問答>地籍謄本及圖資申請 > 使用北北桃地政資訊網路e點通服務時，查詢到地籍圖或建物測量成果圖，用戶端電腦卻無法顯示或列印時，如何處理？」節點
+18:37:42 搜尋元素 [ContentPlaceHolder1_txtKeyWord] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 點選元素 [ContentPlaceHolder1_gvIndex_chkSelect_0] 時出現了錯誤
+18:37:42 點選元素 [ContentPlaceHolder1_btnReviewDate] 時出現了錯誤
+18:37:42 點選元素 [//button[contains(@class,"jqibutton") and contains(., "確定")]] 時出現了錯誤
+18:37:42 無法更新檢閱日期: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 搜尋元素 [//a[@title='業務專區']/preceding-sibling::span] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 搜尋元素 [//a[@title='地政問答']/preceding-sibling::span] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 點選元素 [//a[@title='不動產資訊查詢']/following-sibling::a] 時出現了錯誤
+18:37:42 點選元素 [//a[contains(text(),'內容維護')]] 時出現了錯誤
+18:37:42 展開網頁目錄 [業務專區 > 地政問答 > 不動產資訊查詢]
+18:37:42 檢視「業務專區>地政問答>不動產資訊查詢 > 原本的臺北地政雲不見了？」節點
+18:37:42 搜尋元素 [ContentPlaceHolder1_txtKeyWord] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 點選元素 [ContentPlaceHolder1_gvIndex_chkSelect_0] 時出現了錯誤
+18:37:42 點選元素 [ContentPlaceHolder1_btnReviewDate] 時出現了錯誤
+18:37:42 點選元素 [//button[contains(@class,"jqibutton") and contains(., "確定")]] 時出現了錯誤
+18:37:42 無法更新檢閱日期: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 檢視「業務專區>地政問答>不動產資訊查詢 > 新一代地政雲公地查詢如何使用門牌定位？為何查詢結果清單沒有列私有地?」節點
+18:37:42 搜尋元素 [ContentPlaceHolder1_txtKeyWord] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 點選元素 [ContentPlaceHolder1_gvIndex_chkSelect_0] 時出現了錯誤
+18:37:42 點選元素 [ContentPlaceHolder1_btnReviewDate] 時出現了錯誤
+18:37:42 點選元素 [//button[contains(@class,"jqibutton") and contains(., "確定")]] 時出現了錯誤
+18:37:42 無法更新檢閱日期: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:42 檢視「業務專區>地政問答>不動產資訊查詢 > 新一代地政雲查詢後畫面東西越來越多要怎麼清除？」節點
+18:37:43 搜尋元素 [ContentPlaceHolder1_txtKeyWord] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 點選元素 [ContentPlaceHolder1_gvIndex_chkSelect_0] 時出現了錯誤
+18:37:43 點選元素 [ContentPlaceHolder1_btnReviewDate] 時出現了錯誤
+18:37:43 點選元素 [//button[contains(@class,"jqibutton") and contains(., "確定")]] 時出現了錯誤
+18:37:43 無法更新檢閱日期: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 搜尋元素 [//a[@title='業務專區']/preceding-sibling::span] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 搜尋元素 [//a[@title='地政問答']/preceding-sibling::span] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 點選元素 [//a[@title='地價類']/following-sibling::a] 時出現了錯誤
+18:37:43 點選元素 [//a[contains(text(),'內容維護')]] 時出現了錯誤
+18:37:43 展開網頁目錄 [業務專區 > 地政問答 > 地價類]
+18:37:43 檢視「業務專區>地政問答>地價類 > 土地增值稅試算功能在哪？是否需要會員登入？」節點
+18:37:43 搜尋元素 [ContentPlaceHolder1_txtKeyWord] 時出現了錯誤: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 點選元素 [ContentPlaceHolder1_gvIndex_chkSelect_0] 時出現了錯誤
+18:37:43 點選元素 [ContentPlaceHolder1_btnReviewDate] 時出現了錯誤
+18:37:43 點選元素 [//button[contains(@class,"jqibutton") and contains(., "確定")]] 時出現了錯誤
+18:37:43 無法更新檢閱日期: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=154.0.8037.98)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff740129d55+5a55]
+	chromedriver!(No symbol) [0x7ff74004f540]
+	chromedriver!(No symbol) [0x7ff73fe745fd]
+	chromedriver!(No symbol) [0x7ff73fe4b5d2]
+	chromedriver!(No symbol) [0x7ff73ff007f6]
+	chromedriver!(No symbol) [0x7ff73ff1f5bd]
+	chromedriver!(No symbol) [0x7ff73fec1a12]
+	chromedriver!(No symbol) [0x7ff73fec2823]
+	chromedriver!GetHandleVerifier [0x7ff7405404b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74056e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74056274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7402232fe+feffe]
+	chromedriver!(No symbol) [0x7ff74005cb55]
+	chromedriver!(No symbol) [0x7ff740057f64]
+	chromedriver!(No symbol) [0x7ff7400580f4]
+	chromedriver!(No symbol) [0x7ff740042e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffc355e7ad4+14]
+	ntdll!RtlUserThreadStart [0x7ffc35aba8c1+21]
+
+18:37:43 所有 FAQ 節點檢閱完成！任務順利結束。
+18:37:43 關閉瀏覽器...
